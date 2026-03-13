@@ -29,3 +29,15 @@ This repository contains the completed tasks for Homework #1. It demonstrates pr
 
 ### 9. Remote Push
 * Pushed the cleaned `main` branch, the `recovered-branch`, and the `1.0` tag to this remote GitHub repository.
+
+## Visual Verification
+
+Below are the terminal outputs demonstrating the final state of the repository, the tags, the branches, and the successful execution of the custom alias.
+
+### 1. Detailed Git Log
+Shows the commit authors, dates, merge commits, the `1.0` tag, and the recovered branch.
+![Git Log Detail](images/git-log.png)
+
+### 2. Custom Visual Alias Output (`git visual`)
+Displays the clean graph history, proving the successful squash, branching, and custom alias functionality.
+![Git Visual Graph](images/git-visual.png)
