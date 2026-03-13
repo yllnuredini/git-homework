@@ -36,8 +36,8 @@ Below are the terminal outputs demonstrating the final state of the repository, 
 
 ### 1. Detailed Git Log
 Shows the commit authors, dates, merge commits, the `1.0` tag, and the recovered branch.
-![Git Log Detail](images/git-log.png)
+![Git Log Detail](images/git-log.PNG)
 
 ### 2. Custom Visual Alias Output (`git visual`)
 Displays the clean graph history, proving the successful squash, branching, and custom alias functionality.
-![Git Visual Graph](images/git-visual.png)
+![Git Visual Graph](images/git-visual.PNG)
