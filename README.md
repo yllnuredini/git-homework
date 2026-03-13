@@ -1,5 +1,7 @@
 # Homework #1: Git Workflow and History Management
 
+## Mentor: Berat Ujkani
+
 ## Overview
 This repository contains the completed tasks for Homework #1. It demonstrates practical knowledge of Git workflows, history rewriting, commit recovery, and visual history management.
 
